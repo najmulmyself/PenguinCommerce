@@ -1,0 +1,34 @@
+h1,h2,h3,h4{
+    font-family: 'Bebas Neue', cursive;
+}
+a,p{
+    font-weight: 500;
+}
+.background{
+    background-color: #FFFBF0;
+}
+.jacket-background{
+    background-color: #F1F1F1;
+}
+.text-highlight1{
+    color: #FABE4C;
+}
+.text-highlight2{
+    color: #363958;
+    font-weight: bold;
+}
+.img-height{
+    height: 373px;
+}
+.price{
+    margin-bottom: 0;
+    font-size: 25px;
+    color: #FABE4C;
+}
+.card-footer-border{
+    border: none;
+    background-color: white;
+}
+.card-body-border{
+    border: none;
+}
