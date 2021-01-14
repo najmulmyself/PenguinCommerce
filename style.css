@@ -32,3 +32,29 @@ a,p{
 .card-body-border{
     border: none;
 }
+
+/* Counter Section Responsive */
+
+@media (min-width: 768px) and (max-width: 991px){
+    .col-md-3{
+        width: 50%;
+    }
+}
+
+/* Service Section Responsive */
+
+@media (min-width: 768px) and (max-width: 991px){
+    .col-md-4 {
+        flex: 0 0 auto;
+        width: 68.333333%;
+        margin: auto;
+    }
+}
+
+/* Image Section Responsive */
+
+@media (min-width: 768px) and (max-width: 991px){
+    .col-md-8{
+        margin: auto;
+    }
+}
