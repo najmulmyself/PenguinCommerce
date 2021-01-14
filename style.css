@@ -4,6 +4,9 @@ h1,h2,h3,h4{
 a,p{
     font-weight: 500;
 }
+.obj{
+    object-fit: contain;
+}
 .background{
     background-color: #FFFBF0;
 }
